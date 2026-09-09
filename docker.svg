@@ -1,0 +1,13 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="ports-mask">
+      <rect x="2" y="3" width="20" height="10" rx="2" fill="#fff"/>
+      <rect x="4" y="9" width="3" height="4" fill="#000"/>
+      <rect x="9" y="9" width="3" height="4" fill="#000"/>
+      <rect x="14" y="9" width="3" height="4" fill="#000"/>
+      <rect x="19" y="9" width="3" height="4" fill="#000"/>
+    </mask>
+  </defs>
+  <rect x="2" y="3" width="20" height="10" rx="2" fill="#2396ED" mask="url(#ports-mask)"/>
+  <rect x="9" y="13" width="3" height="4" rx="1" fill="#2396ED"/>
+</svg>
